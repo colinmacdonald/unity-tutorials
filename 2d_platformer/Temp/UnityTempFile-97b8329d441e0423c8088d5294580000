@@ -1,9 +1,13 @@
--debug
 -target:library
--nowarn:0169
--out:'Temp/Assembly-CSharp.dll'
--r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
--r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-i:UnityEngine
+-i:System.Collections
+-base:UnityEngine.MonoBehaviour
+-nowarn:BCW0016
+-nowarn:BCW0003
+-method:Main
+-out:Temp/Assembly-UnityScript.dll
+-x-type-inference-rule-attribute:UnityEngineInternal.TypeInferenceRuleAttribute
+-debug
 -define:UNITY_4_5_1
 -define:UNITY_4_5
 -define:UNITY_STANDALONE_OSX
@@ -39,11 +43,11 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 -define:CROSS_PLATFORM_INPUT
-'Assets/Sample Assets/2D/Scripts/Camera2DFollow.cs'
-'Assets/Sample Assets/2D/Scripts/CameraFollow.cs'
-'Assets/Sample Assets/2D/Scripts/Platformer2DUserControl.cs'
-'Assets/Sample Assets/2D/Scripts/PlatformerCharacter2D.cs'
-'Assets/Sample Assets/2D/Scripts/Restarter.cs'
-'Assets/Scripts/Parallaxing.cs'
--r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
--r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-i:UnityEditor
+'Assets/2D Platform/Scripts/PONG/BallControl.js'
+'Assets/2D Platform/Scripts/PONG/GameManager.js'
+'Assets/2D Platform/Scripts/PONG/GameSetup.js'
+'Assets/2D Platform/Scripts/PONG/PlayerControls.js'
+'Assets/2D Platform/Scripts/PONG/SideWalls.js'

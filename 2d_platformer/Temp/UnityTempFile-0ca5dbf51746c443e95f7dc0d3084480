@@ -45,5 +45,6 @@
 'Assets/Sample Assets/2D/Scripts/PlatformerCharacter2D.cs'
 'Assets/Sample Assets/2D/Scripts/Restarter.cs'
 'Assets/Scripts/Parallaxing.cs'
+'Assets/Scripts/Tiling.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
