@@ -1,0 +1,301 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1605193304
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=5 type=0 insize=5046 outsize=3654 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5046 outsize=4740 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5046 outsize=4734 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=5046 outsize=5350 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=5046 outsize=6 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19247 outsize=1062 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19247 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19254 outsize=4070 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19254 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19258 outsize=5326 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19258 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19237 outsize=636 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19237 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19253 outsize=1057 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19253 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19240 outsize=2089 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=19240 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19251 outsize=2015 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19251 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19247 outsize=767 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19247 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19257 outsize=1126 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19257 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19250 outsize=1106 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19250 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19257 outsize=1193 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19257 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19245 outsize=3338 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19245 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19254 outsize=3036 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19254 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19241 outsize=1272 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19241 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19256 outsize=940 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19256 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19246 outsize=1370 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19246 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19239 outsize=814 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19239 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19247 outsize=3879 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19247 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19255 outsize=3810 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19255 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19265 outsize=4431 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19265 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19243 outsize=666 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19243 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19245 outsize=2089 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19245 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=19262 outsize=621 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=19262 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4780 outsize=3896 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4780 outsize=4985 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF VERTEXLIGHT_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4780 outsize=6 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4780 outsize=7 kw=DIRECTIONAL LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2465 outsize=2053 kw=POINT ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2465 outsize=2146 kw=POINT_COOKIE ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2465 outsize=6 kw=POINT ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2465 outsize=6 kw=SPOT ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3030 outsize=3797 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=3030 outsize=5002 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3030 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=3030 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=7019 outsize=6519 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=7743 kw=LIGHT_ON_SCREEN SPOT_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=6593 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=7833 kw=LIGHT_ON_SCREEN SPOT_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=7019 outsize=7130 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=8356 kw=LIGHT_ON_SCREEN SPOT_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=7198 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=8438 kw=LIGHT_ON_SCREEN SPOT_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=7705 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=8945 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=7795 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=9035 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=8318 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=9558 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=8400 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=7019 outsize=9640 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=LIGHT_ON_SCREEN SPOT_SHAFTS SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_ON FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=LIGHT_ON_SCREEN SPOT_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=LIGHT_ON_SCREEN SPOT_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=LIGHT_ON_SCREEN SPOT_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=7019 outsize=7 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=665 outsize=642 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=665 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=769 outsize=591 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=769 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=2532 outsize=3903 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2532 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=434 outsize=504 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=434 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4328 outsize=4614 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4328 outsize=4586 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4328 outsize=4376 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_ON ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4328 outsize=4376 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_OFF ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=4328 outsize=4472 kw=DIRECTIONAL_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_ON COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4328 outsize=6146 kw=SPOT_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_ON COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4328 outsize=6107 kw=SPOT_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4328 outsize=5903 kw=SPOT_SHAFTS COOKIE_TEX_ON ATTENUATION_CURVE_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=4328 outsize=5864 kw=SPOT_SHAFTS COOKIE_TEX_OFF ATTENUATION_CURVE_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4328 outsize=7 kw=DIRECTIONAL_SHAFTS COLORED_ON ATTENUATION_CURVE_ON COOKIE_TEX_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4328 outsize=7 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_ON ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=4328 outsize=7 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_OFF ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_ON COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS COOKIE_TEX_ON ATTENUATION_CURVE_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS COOKIE_TEX_OFF ATTENUATION_CURVE_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=4328 outsize=6 kw=SPOT_SHAFTS COOKIE_TEX_OFF ATTENUATION_CURVE_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1330 outsize=2088 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1330 outsize=6 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=2465 outsize=775 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=2465 outsize=435 kw=DIRECTIONAL_COOKIE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=5166 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=6352 kw=LIGHT_ON_SCREEN SPOT_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_ON FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=6595 kw=LIGHT_ON_SCREEN SPOT_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=6679 kw=LIGHT_ON_SCREEN SPOT_SHAFTS FLIP_WORKAROUND_ON FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=7025 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=7117 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_ON FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=7360 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_ON SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7019 outsize=7444 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_ON FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS QUAD_SHAFTS FLIP_WORKAROUND_OFF SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN DIRECTIONAL_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=LIGHT_ON_SCREEN SPOT_SHAFTS FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF QUAD_SHAFTS FLIP_WORKAROUND_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=DIRECTIONAL_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN SHOW_SAMPLES_OFF FLIP_WORKAROUND_ON FRUSTUM_SHAFTS ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN QUAD_SHAFTS FLIP_WORKAROUND_ON SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=7019 outsize=6 kw=SPOT_SHAFTS LIGHT_OFF_SCREEN FLIP_WORKAROUND_OFF FRUSTUM_SHAFTS SHOW_SAMPLES_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4328 outsize=3801 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_ON ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4328 outsize=5379 kw=SPOT_SHAFTS COLORED_ON COOKIE_TEX_OFF ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4328 outsize=5428 kw=SPOT_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_OFF COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_ON ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4328 outsize=6 kw=DIRECTIONAL_SHAFTS COLORED_ON COOKIE_TEX_OFF ATTENUATION_CURVE_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4328 outsize=6 kw=SPOT_SHAFTS ATTENUATION_CURVE_ON COOKIE_TEX_ON COLORED_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=4328 outsize=6 kw=SPOT_SHAFTS COOKIE_TEX_ON ATTENUATION_CURVE_OFF COLORED_OFF ok=1

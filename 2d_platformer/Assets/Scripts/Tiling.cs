@@ -36,12 +36,10 @@ public class Tiling : MonoBehaviour {
 			float edgeVisiblePositionLeft = (myTransform.position.x - spriteWidth / 2) + camHorizontalExtend;
 
 			if (cam.transform.position.x >= edgeVisiblePositionRight - offsetX && hasRightTile == false) {
-				Debug.Log ("create right tile");
 				createTile (1);
 				hasRightTile = true;
 
 			} else if (cam.transform.position.x <= edgeVisiblePositionLeft + offsetX && hasLeftTile == false) {
-				Debug.Log("create left tile");
 				createTile (-1);
 				hasLeftTile = true;
 			}
